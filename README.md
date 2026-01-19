@@ -19,5 +19,4 @@ Yêu cầu:
 - Contiki NG: https://docs.contiki-ng.org/en/develop/.
 - Cooja Simulation.
 
-# Mô hình sẽ được mô phỏng với 1 node root (điểm đích) và nhiều node client
-# sử dụng trực tiếp node cooja mote trên Cooja Simulation.
+# Mô hình sẽ được mô phỏng với 1 node root (điểm đích) và nhiều node client sử dụng trực tiếp node cooja mote trên Cooja Simulation.
