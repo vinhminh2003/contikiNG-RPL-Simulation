@@ -11,3 +11,11 @@ mà các cạnh có hướng, không có chu trình lặp lại, và tất cả 
 về một điểm đích cụ thể. Loại đồ thị này thường được sử dụng trong các bài toán như 
 lập lịch, phân tích luồng dữ liệu, hoặc các hệ thống mạng mà cần đảm bảo không có 
 vòng lặp và có điểm kết thúc rõ ràng.
+
+# Mô hình mô phỏng RPL với Contiki NG:
+Yêu cầu: - Ubuntu 22.04: https://releases.ubuntu.com/jammy/
+         - VMWare: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+         - Contiki NG: https://docs.contiki-ng.org/en/develop/
+         - Cooja Simulation
+Mô hình sẽ được mô phỏng với 1 node root (điểm đích) và nhiều node client
+sử dụng trực tiếp node cooja mote trên Cooja Simulation.
