@@ -27,7 +27,9 @@ add mote type -> cooja mote
 - cooja mote (node root - green) -> rpl_root.c -> compile -> create.
 - cooja mote (node client - yellow) -> rpl_client.c -> compile -> create.
 <img width="401" height="401" alt="image" src="https://github.com/user-attachments/assets/b4553951-c128-4b60-8ce3-f77e220bba1b" />
+
 # Kết quả mô phỏng:
+
 <img width="628" height="567" alt="image" src="https://github.com/user-attachments/assets/07b6936c-820c-440a-9646-62d7e41febc0" />
 <img width="626" height="567" alt="image" src="https://github.com/user-attachments/assets/09495c60-fe7d-4550-86ec-013692151750" />
 <img width="627" height="564" alt="image" src="https://github.com/user-attachments/assets/e1b4712e-33a0-4831-9614-c9d05595c732" />
