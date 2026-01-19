@@ -24,8 +24,8 @@ cd contiki-ng/tools/cooja
 ./gradlew run
 
 add mote type -> cooja mote
-- cooja mote (node root) -> rpl_root.c -> compile -> create.
-- cooja mote (node client) -> rpl_client.c -> compile -> create.
+- cooja mote (node root - green) -> rpl_root.c -> compile -> create.
+- cooja mote (node client - yellow) -> rpl_client.c -> compile -> create.
 <img width="401" height="401" alt="image" src="https://github.com/user-attachments/assets/b4553951-c128-4b60-8ce3-f77e220bba1b" />
 # Kết quả mô phỏng:
 <img width="628" height="567" alt="image" src="https://github.com/user-attachments/assets/07b6936c-820c-440a-9646-62d7e41febc0" />
