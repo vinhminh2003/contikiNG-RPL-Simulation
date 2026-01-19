@@ -20,3 +20,10 @@ Yêu cầu:
 - Cooja Simulation.
 
 # Mô hình sẽ được mô phỏng với 1 node root (điểm đích) và nhiều node client sử dụng trực tiếp node cooja mote trên Cooja Simulation.
+<img width="401" height="401" alt="image" src="https://github.com/user-attachments/assets/b4553951-c128-4b60-8ce3-f77e220bba1b" />
+# Kết quả mô phỏng:
+<img width="628" height="567" alt="image" src="https://github.com/user-attachments/assets/07b6936c-820c-440a-9646-62d7e41febc0" />
+<img width="626" height="567" alt="image" src="https://github.com/user-attachments/assets/09495c60-fe7d-4550-86ec-013692151750" />
+<img width="627" height="564" alt="image" src="https://github.com/user-attachments/assets/e1b4712e-33a0-4831-9614-c9d05595c732" />
+
+
